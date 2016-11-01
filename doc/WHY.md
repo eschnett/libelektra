@@ -2,7 +2,7 @@
 
 The three main points relevant for most people are:
 
-1. Even though Elektra provides a global keydatabase
+1. Even though Elektra provides a global keydatabase,
    configuration files stay human read- and writable
    which allows us to integrate unmodified software.
 2. Flexible adoption on how the configuration is accessed
